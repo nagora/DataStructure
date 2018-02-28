@@ -114,3 +114,5 @@ http://www.geeksforgeeks.org/a-complete-step-by-step-guide-for-placement-prepara
 https://github.com/dsaran/scripts/blob/master/sqlrunner.py
 
 https://github.com/vinta/awesome-python/blob/master/docs/CNAME
+
+http://krishnabaidya2010testing.blogspot.com/2010/11/samples-how-to-provide-interview.html
